@@ -1,0 +1,11 @@
+Model Information:
+* title:	Toyota Chaser TourerV
+* source:	https://sketchfab.com/3d-models/toyota-chaser-tourerv-ecc85a571cb64a2f94b77fae1d975b64
+* author:	Swiss_Fox (https://sketchfab.com/Swiss_Fox)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Toyota Chaser TourerV" (https://sketchfab.com/3d-models/toyota-chaser-tourerv-ecc85a571cb64a2f94b77fae1d975b64) by Swiss_Fox (https://sketchfab.com/Swiss_Fox) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
