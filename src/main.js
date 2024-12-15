@@ -36,8 +36,8 @@ const load = (modelName) => {
             action.play();
             controls.target = new THREE.Vector3(
                 model.position.x,
-                model.position.y+1,
-                model.position.z
+                model.position.y+0.8,
+                model.position.z-0.2
             );
             console.log('Successfully loaded "' + realUrl + '"', gltf);
         },
